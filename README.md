@@ -1,8 +1,20 @@
 ### Hi 🤔
 
-<div align=center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/></div>
-
-<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)</div>
+<div align=center>
+  
+  ### 💻 SKILL
+  
+  
+  
+  ### ⚡️ STATS
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)
+  
+  ### 🌱 BOG 
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/> 
+  
+</div>
 
 
 
