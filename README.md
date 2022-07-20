@@ -16,7 +16,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuminv2&layout=compact)](https://github.com/gyuminv2/github-readme-stats)
   
-  ### 🌱 BOG 
+  ### 🌱 BOJ
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/>
   
