@@ -4,15 +4,21 @@
   
   ### 💻 SKILL
   
-  
+  <img
+  src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"
+/>
   
   ### ⚡️ STATS
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)
   
+  ### 🦴 USED
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuminv2&layout=compact)](https://github.com/gyuminv2/github-readme-stats)
+  
   ### 🌱 BOG 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/> 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/>
   
 </div>
 
