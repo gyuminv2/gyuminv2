@@ -1,9 +1,8 @@
-### Hi
+### Hi 🤔
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
+<div align=center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)</div>
 
 
 
