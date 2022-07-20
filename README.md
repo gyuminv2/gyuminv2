@@ -1,6 +1,7 @@
 ### Hi
 
-[![Solved.ac gyuzic](http://mazassumnida.wtf/api/generate_badge?boj={gyuminv2})](https://solved.ac/{gyuminv2})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gyuminv2})](https://solved.ac/{gyuminv2})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)
 
