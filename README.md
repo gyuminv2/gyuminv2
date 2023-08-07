@@ -4,9 +4,13 @@
   
   ### 💻 SKILL
   
-  <img
-  src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"
+<img
+  src="https://img.shields.io/badge/C-A8B9CC"
 />
+<img
+  src="https://img.shields.io/badge/C++-8A2BE2"
+/>
+
   
   ### ⚡️ STATS
   
