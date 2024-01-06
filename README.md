@@ -1,26 +1,75 @@
 <div align=center>
   
   ## 🤔
+  ## ㅎㅇ
   
-  ### 💻 SKILL
+  ### 💻
   
-<img
-  src="https://img.shields.io/badge/C-A8B9CC"
-/>
-<img
-  src="https://img.shields.io/badge/C++-8A2BE2"
-/>
+  <a>
+  <img
+    src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge"
+  />
+  </a>
+
+  <a>
+  <img
+    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"
+  />
+  </a>
+  
+  <a>
+  <img
+    src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"
+  />
+  </a>
+
+  <a>
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"
+  />
+  </a>
+  
+  <a>
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
+  />
+  </a>
+
+  <a>
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"
+  />
+  </a>
+
+  <a>
+  <img
+    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"
+  />
+  </a>
+  
+  <a>
+  <img
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"
+  />
+  </a>
+
+
+  <a>
+  <img
+    src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"
+  />
+  </a>
 
   
-  ### ⚡️ STATS
+  ### ⚡️
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuminv2&show_icons=true&theme=white)
   
-  ### 🦴 USED
+  ### 🦴
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuminv2&layout=compact)](https://github.com/gyuminv2/github-readme-stats)
   
-  ### 🌱 BOJ
+  ### 🌱
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/>
   
