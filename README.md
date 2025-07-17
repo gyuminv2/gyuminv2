@@ -165,8 +165,8 @@
 
   ### 🌴
 
-  [![코드트리|실력진단-inamemin](https://banner.codetree.ai/v1/banner/inamemin)](https://www.codetree.ai/profiles/inamemin)
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic/)
+
 </div>
 
 
