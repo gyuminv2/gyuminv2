@@ -88,10 +88,10 @@
   -->
   <div>
   <a>
-  <img
+<!--   <img
     src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=black"
   />
-  </a>
+  </a> -->
   
   <a>
   <img
@@ -100,10 +100,10 @@
   </a>
 
   <a>
-  <img
+<!--   <img
     src="https://img.shields.io/badge/android studio-01267a?style=for-the-badge&logo=androidstudio&logoColor=green"
   />
-  </a>
+  </a> -->
   </div>
 
   <!--
@@ -112,17 +112,17 @@
   <div>
     
   <a>
-  <img
+<!--   <img
     src="https://img.shields.io/badge/nginx-0d7501?style=for-the-badge&logo=nginx&logoColor=black"
   />
-  </a>
+  </a> -->
 
     
   <a>
-  <img
+<!--   <img
     src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=010575"
   />
-  </a>
+  </a> -->
   
   </div>
 
