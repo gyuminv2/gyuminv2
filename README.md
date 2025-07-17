@@ -28,12 +28,6 @@
 
   <a>
   <img
-    src="https://img.shields.io/badge/TypeScript-0070d9?style=for-the-badge&logo=TypeScript&logoColor=white"
-  />
-  </a>
-
-  <a>
-  <img
     src="https://img.shields.io/badge/Python-d2d900?style=for-the-badge&logo=Python&logoColor=blue"
   />
   </a>
@@ -44,12 +38,6 @@
     FrameWork
   -->
   <div>
-    
-  <a>  
-  <img
-    src="https://img.shields.io/badge/NestJS-d92800?style=for-the-badge&logo=NestJS&logoColor=black"
-  />
-  </a>
 
   <a>  
   <img
@@ -84,22 +72,9 @@
   </div>
 
   <!--
-    Moblie
   -->
   <div>
-  <a>
-<!--   <img
-    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=black"
-  />
-  </a> -->
-  
-  <a>
-  <img
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=black"
-  />
-  </a>
-
-  <a>
+    
 <!--   <img
     src="https://img.shields.io/badge/android studio-01267a?style=for-the-badge&logo=androidstudio&logoColor=green"
   />
