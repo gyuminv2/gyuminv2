@@ -138,7 +138,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic)<br/>
   -->
 
-  ### 🌴
+  ### 🌱
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuzic)](https://solved.ac/gyuzic/)
 
